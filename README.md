@@ -86,6 +86,5 @@ After a full run, the notebook will produce:
 \* Correlation matrix for numeric features
 \* Model performance metrics
 
-\*CS6502 Applied Big Data Visualization — Spring 2026\*
 
 
