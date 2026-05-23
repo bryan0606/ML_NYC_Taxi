@@ -11,14 +11,6 @@ This project performs large-scale data management and machine learning on the NY
 * Hyperparameter tuning and model evaluation
 * Operational efficiency modelling
 
-## 🗂️ Contents
-
-Group3_CS6502_Project.zip
-├── NYC_Yellow_Taxi_Trip_Records.ipynb    # Main Databricks/Jupyter notebook
-├── nyc_tlc_yellow_2024_01.csv            # NYC Yellow Taxi Trip dataset (CSV)
-├── Group3_BigData_Assignment_v0.pdf     # Report
-└── README.txt
-
 ## 🛠️ Prerequisites
 
 Before running the notebook, ensure you have the following:
