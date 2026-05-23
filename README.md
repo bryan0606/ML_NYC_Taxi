@@ -1,7 +1,5 @@
 # NYC Yellow Taxi Trip Records — Big Data Analysis
 
-# CS6502 Applied Big Data Visualization | Group Project
-
 ## 📋 Project Overview
 
 This project performs large-scale data management and machine learning on the NYC Yellow Taxi Trip Records (January 2024) dataset using Apache Spark on Databricks Community Edition. The notebook covers:
